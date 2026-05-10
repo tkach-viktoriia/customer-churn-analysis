@@ -93,6 +93,7 @@ Customers who churn spend 28% less, contact support 3x more often, and delay pay
 - `customer_churn_analysis.ipynb` — Main analysis notebook
 - `customer_churn_dataset.csv` — Raw dataset
 - `customer_churn_cleaned.csv` — Cleaned dataset used for Tableau
+- `customer_churn_dashboard.png` — Tableau dashboard screenshot
 
 ## Dashboard
 
